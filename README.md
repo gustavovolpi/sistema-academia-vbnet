@@ -48,7 +48,7 @@ Para configurar e executar este projeto localmente, siga os passos abaixo:
 
 2.  **Clonar o Repositório:**
     ```bash
-    git clone [https://github.com/gustavovolpi/academia-integrado.git](https://github.com/gustavovolpi/academia-integrado.git) # Substitua pelo link do seu repositório
+    git clone [https://github.com/gustavovolpi/sistema-academia-vbnet.git](https://github.com/gustavovolpi/sistema-academia-vbnet.git)
     ```
 
 3.  **Abrir no Visual Studio:**
