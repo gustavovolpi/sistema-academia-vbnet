@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+*.cache
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.[Cc]ache
+*.pdb
+*.idb
+*.sbr
+*.bsc
+
+# Visual Studio Code specific (if you use it)
+.vscode/
+
+# Miscellaneous
+Thumbs.db
+desktop.ini
